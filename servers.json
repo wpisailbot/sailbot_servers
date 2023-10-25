@@ -1,0 +1,13 @@
+{
+    "servers": [
+      {
+        "name": "sailbot-nano",
+        "address": "172.29.201.10"
+      },
+      {
+        "name": "sailbot-orangepi",
+        "address": "172.29.81.241"
+      }
+    ]
+  }
+  
