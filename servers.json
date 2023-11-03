@@ -7,6 +7,10 @@
       {
         "name": "sailbot-orangepi",
         "address": "172.29.81.241"
+      },
+      {
+        "name": "sailbot-rpi4",
+        "address": "172.29.179.197"
       }
     ]
   }
