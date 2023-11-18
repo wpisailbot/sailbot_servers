@@ -5,6 +5,10 @@
         "address": "172.29.201.10"
       },
       {
+        "name": "sailbot-nano-2",
+        "address": "172.29.150.12"
+      },
+      {
         "name": "sailbot-orangepi",
         "address": "172.29.81.241"
       },
