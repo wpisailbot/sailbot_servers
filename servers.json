@@ -3,6 +3,10 @@
       {
         "name": "sailbot-orin",
         "address": "172.29.22.110"
+      },
+      {
+        "name": "dummy",
+        "address": "0.0.0.0"
       }
     ]
   }
