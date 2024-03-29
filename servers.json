@@ -5,6 +5,10 @@
         "address": "172.29.112.238"
       },
       {
+        "name": "sailbot-orin-dev",
+        "address": "172.29.68.190" 
+      },
+      {
         "name": "dummy",
         "address": "0.0.0.0"
       }
