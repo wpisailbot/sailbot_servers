@@ -2,11 +2,11 @@
     "servers": [
       {
         "name": "sailbot-orin",
-        "address": "172.29.112.238"
+        "address": "172.29.77.229"
       },
       {
         "name": "sailbot-orin-dev",
-        "address": "172.29.68.190" 
+        "address": "172.29.214.135" 
       },
       {
         "name": "dummy",
