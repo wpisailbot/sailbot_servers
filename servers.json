@@ -15,7 +15,7 @@
       {
         "name": "sailbot-orin-nvme",
         "address": "172.29.52.47" 
-      },
+      }
     ]
   }
   
