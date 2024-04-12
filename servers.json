@@ -1,12 +1,12 @@
 {
     "servers": [
       {
-        "name": "sailbot-orin-nvme",
-        "address": "172.29.52.47" 
-      },
-      {
         "name": "sailbot-orin-nvme-3",
         "address": "172.29.153.175" 
+      },
+      {
+        "name": "sailbot-orin-nvme",
+        "address": "172.29.52.47" 
       }
     ]
   }
