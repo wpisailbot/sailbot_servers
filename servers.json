@@ -1,16 +1,12 @@
 {
     "servers": [
       {
-        "name": "sailbot-orin-jp6",
-        "address": "172.29.14.75" 
-      },
-      {
-        "name": "sailbot-orin-nvme-3",
-        "address": "172.29.153.175" 
+        "name": "sailbot",
+        "address": "172.29.108.72" 
       },
       {
         "name": "sailbot-orin-backup",
-        "address": "172.29.212.169" 
+        "address": "172.29.114.19" 
       }
     ]
   }
