@@ -6,7 +6,7 @@
       },
       {
         "name": "sailbot-orin-backup",
-        "address": "172.29.114.19" 
+        "address": "172.29.20.65" 
       }
     ]
   }
