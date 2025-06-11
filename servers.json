@@ -11,6 +11,10 @@
       {
         "name": "mgomes-orin",
         "address": "172.29.14.75" 
+      },
+      {
+        "name": "sailbot_zerotier",
+        "address": "172.29.205.131" 
       }
     ]
   }
