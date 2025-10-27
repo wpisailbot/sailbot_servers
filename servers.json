@@ -19,6 +19,10 @@
       {
         "name": "sailbot-new",
         "address": "100.114.209.44" 
+      },
+      {
+        "name": "Bolong-laptop",
+        "address": "100.65.88.44" 
       }
     ]
   }
