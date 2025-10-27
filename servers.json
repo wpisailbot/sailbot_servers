@@ -1,8 +1,8 @@
 {
     "servers": [
       {
-        "name": "sailbot",
-        "address": "100.102.163.125" 
+        "name": "sailbot-new",
+        "address": "100.114.209.44" 
       },
       {
         "name": "sailbot-orin-backup",
@@ -15,6 +15,14 @@
       {
         "name": "sailbot_zerotier",
         "address": "172.29.205.131" 
+      },
+      {
+        "name": "sailbot",
+        "address": "100.102.163.125" 
+      },
+      {
+        "name": "Bolong-cellphone",
+        "address": "100.78.206.123" 
       }
     ]
   }
