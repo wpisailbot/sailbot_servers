@@ -2,7 +2,7 @@
     "servers": [
       {
         "name": "sailbot-new",
-        "address": "100.109.29.104" 
+        "address": "100.64.184.40" 
       },
       {
         "name": "sailbot-orin-backup",
